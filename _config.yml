@@ -1,0 +1,14 @@
+layout_spectrum: 0.1368297
+color:
+  saturation: 0.8648407
+  brandStrength: 0.5887186
+  lightness: 0.3281417
+  rhythmicContrast: 0.9194443
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.2126763
+name: shazlan
